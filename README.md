@@ -2,9 +2,9 @@
 # TodoList Of React Hooks
 使用react hooks构建的一个简单todoList
 
-### `live`
+### `live : ` [点我查看](https://zzzz-ssq.github.io/todoList-of-react-hooks)
 
-[点我查看](https://zzzz-ssq.github.io/todoList-of-react-hooks)
+
 
 ### `result img`
 
