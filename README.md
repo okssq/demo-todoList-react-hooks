@@ -5,7 +5,7 @@
 ## 介绍
 * **关于项目:** 使用react hooks构建的一个简单todoList <br>
 * **在线预览:** [https://zzzz-ssq.github.io/todoList-of-react-hooks](https://zzzz-ssq.github.io/todoList-of-react-hooks/)
-* **项目运行效果图:** 
+* **项目运行效果图:** <br>
 ![result img](https://github.com/zzZZ-ssq/todoList-of-react-hooks/blob/master/git_img/live.png)
 
 
