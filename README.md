@@ -13,5 +13,5 @@
 
 ## 使用方式
 * **npm start:** 启动本地服务
-* **npm run build:** 
+* **npm run build:** 生成打包文件
 
