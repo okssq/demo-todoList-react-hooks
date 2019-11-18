@@ -8,7 +8,7 @@
 
 ### `result img`
 
-![result img](https://raw.githubusercontent.com/zzZZ-ssq/todoList-of-react-hooks/master/result.png)
+![result img](https://raw.githubusercontent.com/zzZZ-ssq/todoList-of-react-hooks/master/live.png)
 
 
 ### `npm start`
