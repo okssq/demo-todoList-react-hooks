@@ -14,6 +14,6 @@
 ## 使用方式
 * **npm start:** 启动本地服务
 * **npm run build:** 生成打包文件
-* **npm run deploy：** 发布github homempage
+* **npm run deploy：** 发布github-pages 
 
 
