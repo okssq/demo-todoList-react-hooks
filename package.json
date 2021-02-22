@@ -1,8 +1,8 @@
 {
-  "name": "todo-list-of-react-hooks",
+  "name": "demo-todoList-react-hooks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zzzz-ssq.github.io/todoList-of-react-hooks",
+  "homepage": "https://okssq.github.io/demo-todoList-react-hooks",
   "dependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
