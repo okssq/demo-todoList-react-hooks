@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/todoList-of-react-hooks/static/css/main.561f17f8.chunk.css",
-    "main.js": "/todoList-of-react-hooks/static/js/main.39ac39bd.chunk.js",
-    "main.js.map": "/todoList-of-react-hooks/static/js/main.39ac39bd.chunk.js.map",
-    "runtime-main.js": "/todoList-of-react-hooks/static/js/runtime-main.e4aeedb9.js",
-    "runtime-main.js.map": "/todoList-of-react-hooks/static/js/runtime-main.e4aeedb9.js.map",
-    "static/js/2.db3078ad.chunk.js": "/todoList-of-react-hooks/static/js/2.db3078ad.chunk.js",
-    "static/js/2.db3078ad.chunk.js.map": "/todoList-of-react-hooks/static/js/2.db3078ad.chunk.js.map",
-    "index.html": "/todoList-of-react-hooks/index.html",
-    "precache-manifest.4a9b5b2a44cb7dd3b22c6e54c3faaa5c.js": "/todoList-of-react-hooks/precache-manifest.4a9b5b2a44cb7dd3b22c6e54c3faaa5c.js",
-    "service-worker.js": "/todoList-of-react-hooks/service-worker.js",
-    "static/css/main.561f17f8.chunk.css.map": "/todoList-of-react-hooks/static/css/main.561f17f8.chunk.css.map"
+    "main.css": "/demo-todoList-react-hooks/static/css/main.bbf6a3e1.chunk.css",
+    "main.js": "/demo-todoList-react-hooks/static/js/main.049754b3.chunk.js",
+    "main.js.map": "/demo-todoList-react-hooks/static/js/main.049754b3.chunk.js.map",
+    "runtime-main.js": "/demo-todoList-react-hooks/static/js/runtime-main.64cb8346.js",
+    "runtime-main.js.map": "/demo-todoList-react-hooks/static/js/runtime-main.64cb8346.js.map",
+    "static/js/2.07f5a495.chunk.js": "/demo-todoList-react-hooks/static/js/2.07f5a495.chunk.js",
+    "static/js/2.07f5a495.chunk.js.map": "/demo-todoList-react-hooks/static/js/2.07f5a495.chunk.js.map",
+    "index.html": "/demo-todoList-react-hooks/index.html",
+    "precache-manifest.4462d01fb54d8aaf9c008f222f79e677.js": "/demo-todoList-react-hooks/precache-manifest.4462d01fb54d8aaf9c008f222f79e677.js",
+    "service-worker.js": "/demo-todoList-react-hooks/service-worker.js",
+    "static/css/main.bbf6a3e1.chunk.css.map": "/demo-todoList-react-hooks/static/css/main.bbf6a3e1.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.e4aeedb9.js",
-    "static/js/2.db3078ad.chunk.js",
-    "static/css/main.561f17f8.chunk.css",
-    "static/js/main.39ac39bd.chunk.js"
+    "static/js/runtime-main.64cb8346.js",
+    "static/js/2.07f5a495.chunk.js",
+    "static/css/main.bbf6a3e1.chunk.css",
+    "static/js/main.049754b3.chunk.js"
   ]
 }
